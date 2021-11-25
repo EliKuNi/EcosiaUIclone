@@ -126,7 +126,7 @@ input {
 }
 
 nav .share {
-    text-decoration:none
+    text-decoration:none;
     display: block;
     margin: auto;
     width:150px;
